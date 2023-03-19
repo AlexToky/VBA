@@ -1,0 +1,55 @@
+:Base Time Sheet V8.hlp
+:Title Help for TimeSheet V8
+1 Getting Started
+2 What is Time Sheet=WHAT_IS
+2 Installation and opening the Program=HOW_SETUP
+1 Program's Interface
+2 Basics of Program's Interface=INTERFACE_BASICS
+2 Time Table - General Description=INTERFACE_TIMETABLE
+2 Selection of Cells=INTERFACE_SELECTION
+2 Double-click the mouse=INTERFACE_DOUBLECLICK
+2 Keyboard, shortcut keys and decimal symbol=INTERFACE_KEYBOARD
+2 Time Table color scheme (non-German Crew)=INTERFACE_COLORRU
+2 Time Table color scheme (German Crew)=INTERFACE_COLORDE
+2 Toolbar=INTERFACE_TOOLBAR
+2 Shortcut Menu=INTERFACE_SHORTCUT
+2 Dialog Windows=INTERFACE_DIALOGWINDOWS
+1 Menu "File"
+2 Command "New..."=FILE_NEW
+2 Command "Open..."=FILE_OPEN
+2 Command "Save Data"=FILE_SAVE
+2 Command "Save Data as..."=FILE_SAVEAS
+2 Command "Save Program"=FILE_SAVEPROGRAM
+2 Command "Print"=FILE_PRINT
+2 Command "Print Preview"=FILE_PREVIEW
+2 Command "Printer"=FILE_PRINTER
+2 Command "Export form..."=FILE_EXPORTFORM
+2 Recently used files list=FILE_RECENT
+2 Command "Exit..."=FILE_EXIT
+1 Menu "Edit"
+2 Commands "1 Hour", "1/2 Hour" and "0 Hours (Empty)"=EDIT_HOURSRU
+2 Command "Weekend/Norm." (non-German Crew)=EDIT_HOLIDAYRU
+2 Commands "Working Day", "Weekend 50%", "Holiday 125%" (German Crew)=EDIT_HOLIDAYDE
+2 Commands "UMS Port", "UMS Sea", "No UMS" (non-German Crew)=EDIT_UMSRU
+2 Command "Auto Calc."=EDIT_AUTO
+2 Commands "Copy", "Paste W/Hrs", "Paste Special"=EDIT_COPY
+2 Command "Clear"=EDIT_CLEAR
+2 Group of "More" Commands=EDIT_MORE
+1 Menu "Tools"
+2 Command "Default Hours" - "Set as Default Hours"=TOOLS_SETDEFAULT
+2 Command "Default Hours" - "Restore from default"=TOOLS_RESTOREDEFAULT
+2 Command "Default Hours" - "Info…"=TOOLS_DEFAULTINFO
+2 Command "Password" - "User's Password"=TOOLS_USERPW
+2 Command "Zoom..."=TOOLS_ZOOM
+2 Command "Options..."=TOOLS_OPTIONS
+1 User's Personal settings and Preferences
+2 Dialog Window "Options"=OPTIONS_MAIN
+2 Page "User"=OPTIONS_USER
+2 Page "Vessel"=OPTIONS_VESSEL
+2 Page "Company"=OPTIONS_COMPANY
+2 Page"Print"=OPTIONS_PRINT
+2 Page "General"=OPTIONS_GENERAL
+2 Page "On Exit"=OPTIONS_ONEXIT
+2 Page "Calculations"=OPTIONS_CALCULATIONS
+2 Page "UMS"=OPTIONS_UMS
+2 Page "LOR"=OPTIONS_LOR
